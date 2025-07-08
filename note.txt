@@ -1,3 +1,5 @@
+npm i
+
 npx expo start = to generate QR for expo App
 
- npx expo run = to Run Virual Device
+npx expo run = to Run Virual Device
